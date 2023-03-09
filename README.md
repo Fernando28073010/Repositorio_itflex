@@ -1,4 +1,4 @@
-# Repositorio_itflex
+# Projeto Banco de Dados.
 Repositório com finalidade  de entregar atividades de banco de dados.
 Objetivo
 Construir um banco de dados para gravar as tarefas cotidianas.
